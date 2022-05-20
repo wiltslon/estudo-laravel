@@ -44,6 +44,6 @@
         </nav>
     </header>
     @yield('content')
-    <p>Wiltslon Silva</p>
+    <p>Wiltslon Silva Pereira</p>
     </body>
 </html>
